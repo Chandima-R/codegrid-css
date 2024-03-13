@@ -1,0 +1,9 @@
+export default function AboutPage() {
+    return (
+        <div className="page-content">
+            <h1>
+                About <sup>(03)</sup>
+            </h1>
+        </div>
+    );
+}
